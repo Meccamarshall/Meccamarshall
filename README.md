@@ -17,3 +17,5 @@
 - 📖 I’m a Graduate student in the Data Science program at CUNY School of Professional Studies
 - d
 - 📧 You can reach me at marshallmeccaa@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
