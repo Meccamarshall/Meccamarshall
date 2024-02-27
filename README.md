@@ -18,4 +18,4 @@
 - d
 - 📧 You can reach me at marshallmeccaa@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Mecca's GitHub stats](https://github-readme-stats.vercel.app/api?username=meccamarshall&theme=dark&show_icons=true)
